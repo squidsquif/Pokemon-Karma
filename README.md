@@ -19,4 +19,4 @@ To set up the repository, see [INSTALL.md](INSTALL.md).
 
 You can find the pokeemerald discord at ([Discord](https://discord.gg/d5dubZ3)) and their [IRC](https://kiwiirc.com/client/irc.freenode.net/?#pret).
 
-Pokemon Karma Discord: 
+Pokemon Karma Discord: https://discord.gg/bRn8S4bqmj
